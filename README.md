@@ -11,6 +11,7 @@ Video hướng dẫn: https://youtu.be/2TblYLFWEps?si=dswgEs7wOdj06wxG
 Ai chưa tải turmux thì link tải đây nhé
 
 https://apkcombo.com/vi/termux/com.termux/
+
 Lệnh1: termux-setup-storage
 
 Lệnh2: apt update && apt upgrade && pkg install php && pkg install python 
